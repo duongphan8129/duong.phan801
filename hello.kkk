@@ -1,0 +1,3 @@
+git remote add origin https://github.com/duongphan8129/duong.phan801.git
+ git nhánh -M main 
+git đẩy -u origin main
